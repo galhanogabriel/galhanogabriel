@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Galhano!
 
-Sou um Cientista de Dados com conhecimento em Python, me especializando em bibliotecas como Pandas e Matplotlib.
+Sou um Analista de Dados com conhecimento em Python, me especializando em bibliotecas como Pandas e Matplotlib.
 
 Apaixonado por tecnologia, análise de dados e aprendizado contínuo. Usando minha base em contabilidade, combino raciocínio analítico com novas tecnologias. Busco contribuir com projetos que apoiem decisões estratégicas baseadas em dados e gerar insights.
 
