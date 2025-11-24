@@ -1,8 +1,6 @@
-# Olá, eu sou Gabriel Galhano!
+# Data Scientist | Python | SQL | Power BI | Scikit-learn | Streamlit | Excel
 
-Analista de dados com conhecimentos em Python (Pandas, Matplotlib, Numpy), SQL, Power BI e Excel. Transformo dados brutos em insights
-
-Apaixonado por tecnologia, análise de dados e aprendizado contínuo. Usando minha base em contabilidade, combino raciocínio analítico com novas tecnologias. Busco contribuir com projetos que apoiem decisões estratégicas baseadas em dados e gerar insights.
+Data Scientist with experience in transforming raw data into actionable insights using Python (Pandas, Matplotlib, Numpy), SQL, Power BI, and Excel. Passionate about leveraging technology and analytical skills grounded in a foundation of accounting knowledge to solve complex problems and support data-driven decision-making. Skilled in building robust data models, visualizing trends, and communicating insights to empower strategic projects and drive business value.
 
 <div style="display: inline-block"> 
   <a href="https://www.linkedin.com/in/gabriel-galhano-27a360244" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
